@@ -14,4 +14,4 @@
 <br>
 <hr>
 <h1> 👉 모각코 👈 </h1>
-- 게더타운 : https://app.gather.town/invite?token=sst9Mn6FQxS6Ic92CzCA
+- 게더타운 : https://app.gather.town/invite?token=PAg6hH_OR9-A5l99n83V
